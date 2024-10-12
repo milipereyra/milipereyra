@@ -1,5 +1,5 @@
 <h1>Hola! 👋 </h1>
-- Estudiante de Ing. en Sistemas - UTN FRVM. :computer:
+- Estudiante de Ing. en Sistemas - UTN FRVM. ⵥ
 <h2>Lenguajes y herramientas utilizados: </h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img style="margin: 15px;" src="https://raw.githubusercontent.com/milipereyra/milipereyra/main/images/c%2B%2B.png" alt="C++" width="45" height="50"/>
