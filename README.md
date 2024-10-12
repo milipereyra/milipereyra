@@ -1,4 +1,4 @@
 __Hola!__ 👋 
 
 __Herramientas utilizadas:__
-![alt text](https://raw.githubusercontent.com/milipereyra/milipereyra/images/images/919826.png)
+![alt text](https://github.com/milipereyra/milipereyra/blob/main/images/c%2B%2B.png))
